@@ -1,8 +1,8 @@
-#DRAM Scheudling Algorithms
+# DRAM Scheudling Algorithms
 
 ---
 
-# Ramulator Memory Scheduler Project
+
 
 This project enhances the [Ramulator](https://github.com/CMU-SAFARI/ramulator) DRAM simulator with the implementation and evaluation of several memory scheduling algorithms.  
 The goal is to improve memory access performance and fairness across multiple cores and memory controllers.

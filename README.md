@@ -1,4 +1,4 @@
-# DRAM Scheudling Algorithms
+# DRAM Scheduling Algorithms
 
 ---
 
